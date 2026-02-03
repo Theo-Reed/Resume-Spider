@@ -1,0 +1,1297 @@
+﻿_id,title,title_chinese,title_english,team,summary,summary_chinese,summary_english,salary,salary_english,createdAt,source_name,source_name_english,source_url,type,description,description_chinese,description_english,city,experience,is_remote
+1dd613bac66ab05dec1b03de37782bc0,Senior Frontend Engineer,高级前端开发工程师,Senior Frontend Engineer,Locker (Want Locker),"React前端开发,电商与创作者经济,Next.js+React Native,敏捷开发流程,美企初创公司,期权与医疗福利","React前端开发,电商与创作者经济,Next.js+React Native,敏捷开发流程,美企初创公司,期权与医疗福利","React Frontend Development,E-commerce & Creator Economy,Next.js+React Native,Agile Development Process,US Startup,Equity & Health Benefits",84-96K·0.1%–0.2%股,84-96K·0.1%–0.2%,2026-01-09,Wellfound,Wellfound,https://wellfound.com/jobs/3236793-senior-frontend-engineer,国外,"At Locker, we have created a consumer shopping platform that revolutionizes the way consumers shop, and is democratizing curation and affiliate earning for the everyday consumer. Locker was named among the top 5 commerce startups and among the top 50 startups in 2024 by The Information. We are a seed stage startup, and have raised $3.5M in funding, with our seed round led by Wonder Ventures.
+
+Locker is seeking a senior frontend engineer to join our team. In this role you will be responsible for delivering world-class UI to our user base, using your wide range of skills and expertise working in a product-driven organization.
+
+We are a remote team, mostly located in the Los Angeles area with occasional meetings on-site.
+
+Why join Locker’s Engineering team?
+-Great team dynamics - we care more about whether someone is a good personality fit than whether they know every single area of our technical stack.
+-Great company culture - we love working with each other and we put in the time and effort to make Locker a great place to work.
+-Empathy-driven decision-making - we make decisions based on caring deeply about the customer experience.
+-Everyone has a voice - no matter your position in the company, your ideas will be respected and heard.
+-Strong technical drive - our team’s tech experience is diverse, and we care deeply about the technical decisions we make.
+-Strong quality drive - we want to write the best code we’ve ever written, build the best products we’ve ever built, and have high standards for what we do.
+
+What you’ll bring to the team:
+-A deep love of engineering. You care about the code you write and you have strong opinions about what makes good code (these don’t need to be the same strong opinions as the rest of the team).
+-You’re great to work with. Every colleague you have is excited to collaborate with you on a day to day basis. You’ll help contribute to the company culture and make Locker a great place to work.
+-You’re great to discuss solutions with. You’re committed to finding the best answer for any problem, whether it was the idea you thought of first or not. You don’t mind admitting you’re wrong and have a healthy attitude to changing your mind. You value the expertise and input of others, and freely share yours.
+-You’re light on your feet. You’re comfortable working on an agile team at a small start-up, and you understand that priorities change and sometimes hours run late. You’re adaptable and you don’t mind jumping in when someone else on the team needs help.
+-You’re excited about our mission. You love the idea of shaping the future of commerce, and the democratization of the creator economy.
+
+What you’ll do:
+-Work on our Agile team to ship high-quality releases fast and often.
+-Play a critical role in maintaining and developing our frontend features.
+-Help plan, design, implement and maintain features.
+
+Our tech stack:
+Node.js
+Next.js
+Vercel
+Express
+GraphQL
+Postgres
+React Native
+GCP (Cloud Run, Cloud SQL, Pub/Sub, BigQuery)
+Terraform
+Sentry
+Metabase
+
+Skills and qualifications we’re looking for:
+-5+ years of experience working at growth-focused, early-to-mid stage startups.
+-Domain expertise in commerce and the creator economy.
+-A degree in Computer Science, Engineering, or a related field.
+-Experience building React frontends as part of a startup product team.
+-Familiarity with most or at least a good chunk of our tech stack.
+-Experience with Agile software development methodologies.
+
+What We Offer:
+-A pivotal role in a rapidly growing startup set to revolutionize the consumer and creator economy. It’s a small team and everyone is vital for our success.
+-Substantial equity stake in the startup, aligning your success with ours, competitive base salary, and health benefits.
+-The opportunity to shape the future of commerce with a diverse group of successful, talented and motivated colleagues.
+
+Apply now to join our team!","在 Locker，我们打造了一个革命性的消费者购物平台，改变了消费者的购物方式，并让日常消费者的策展和联盟营销收益变得大众化。Locker 被 The Information 评为 2024 年度前 5 名商业初创公司和前 50 名初创公司。我们是一家种子期初创公司，已经筹集了 350 万美元的资金，种子轮由 Wonder Ventures 领投。
+
+Locker 正在寻找一名高级前端工程师加入我们的团队。在此职位上，您将利用在产品驱动型组织工作的广泛技能和专业知识，负责向我们的用户群交付世界级水平的 UI。
+
+我们是一支远程团队，成员主要分布在洛杉矶地区，偶尔会有现场会议。
+
+为什么加入 Locker 的工程团队？
+- 优秀的团队动态 - 我们更看重一个人是否适合团队性格，而不是他们是否了解我们技术栈的每一个领域。
+- 优秀的公司文化 - 我们热爱彼此合作，并投入时间和精力使 Locker 成为一个工作的好地方。
+- 共情驱动的决策 - 我们基于对客户体验的深切关注来做出决策。
+- 每个人都有发言权 - 无论您在公司的职位如何，您的想法都会得到尊重和倾听。
+- 强大的技术驱动力 - 我们团队的技术经验非常多元化，并且我们深切关注我们所做的技术决策。
+- 强大的质量驱动力 - 我们希望编写出有史以来最好的代码，构建出有史以来最好的产品，并对我们的工作保持高标准。
+
+您将为团队带来什么：
+- 对工程的深厚热爱。您关心自己编写的代码，并且对于什么是好代码有坚定的见解（这些见解不需要与团队其他成员完全一致）。
+- 易于合作。您的每一位同事都期待在日常工作中与您协作。您将协助贡献公司文化，使 Locker 成为一个工作的好地方。
+- 易于讨论解决方案。您致力于为任何问题寻找最佳答案，无论那是您最先想到的主意还是其他人的。您不介意承认自己错了，并对改变主意持有健康的坦然态度。您重视他人的专业知识和输入，并乐于分享您的见解。
+- 灵活敏捷。您在小型初创公司的敏捷团队中工作感到自如，并且理解优先级会发生变化，有时需要加班。您适应能力强，在团队其他成员需要帮助时，您不介意随时加入。
+- 对我们的使命充满热情。您热爱塑造商业未来以及创作者经济大众化的想法。
+
+您将要做什么：
+- 在我们的敏捷团队中工作，快速且频繁地发布高质量版本。
+- 在维护和开发我们的前端功能方面发挥关键作用。
+- 帮助规划、设计、实施和维护各项功能。
+
+我们的技术栈：
+Node.js
+Next.js
+Vercel
+Express
+GraphQL
+Postgres
+React Native
+GCP (Cloud Run, Cloud SQL, Pub/Sub, BigQuery)
+Terraform
+Sentry
+Metabase
+
+我们正在寻找的技能和资历：
+- 5 年以上在增长型、初创期或中期初创公司工作的经验。
+- 在商业和创作者经济领域的行业专业知识。
+- 计算机科学、工程或相关领域的学位。
+- 在初创产品团队中构建 React 前端的经验。
+- 熟悉我们大部分或至少很大一部分技术栈。
+- 具有敏捷软件开发方法的经验。
+
+我们提供：
+- 在一家旨在彻底改变消费者和创作者经济的快速成长初创公司中担任关键职位。这是一个小团队，每个人对我们的成功都至关重要。
+- 在初创公司中持有大量股权，使您的成功与我们的成功挂钩，具有竞争力的基本工资和医疗福利。
+- 与一群多元化、成功、才华横溢且充满动力的同事一起塑造商业未来的机会。
+
+立即申请加入我们的团队！","At Locker, we have created a consumer shopping platform that revolutionizes the way consumers shop, and is democratizing curation and affiliate earning for the everyday consumer. Locker was named among the top 5 commerce startups and among the top 50 startups in 2024 by The Information. We are a seed stage startup, and have raised $3.5M in funding, with our seed round led by Wonder Ventures.
+
+Locker is seeking a senior frontend engineer to join our team. In this role you will be responsible for delivering world-class UI to our user base, using your wide range of skills and expertise working in a product-driven organization.
+
+We are a remote team, mostly located in the Los Angeles area with occasional meetings on-site.
+
+Why join Locker’s Engineering team?
+- Great team dynamics - we care more about whether someone is a good personality fit than whether they know every single area of our technical stack.
+- Great company culture - we love working with each other and we put in the time and effort to make Locker a great place to work.
+- Empathy-driven decision-making - we make decisions based on caring deeply about the customer experience.
+- Everyone has a voice - no matter your position in the company, your ideas will be respected and heard.
+- Strong technical drive - our team’s tech experience is diverse, and we care deeply about the technical decisions we make.
+- Strong quality drive - we want to write the best code we’ve ever written, build the best products we’ve ever built, and have high standards for what we do.
+
+What you’ll bring to the team:
+- A deep love of engineering. You care about the code you write and you have strong opinions about what makes good code (these don’t need to be the same strong opinions as the rest of the team).
+- You’re great to work with. Every colleague you have is excited to collaborate with you on a day to day basis. You’ll help contribute to the company culture and make Locker a great place to work.
+- You’re great to discuss solutions with. You’re committed to finding the best answer for any problem, whether it was the idea you thought of first or not. You don't mind admitting you're wrong and have a healthy attitude to changing your mind. You value the expertise and input of others, and freely share yours.
+- You’re light on your feet. You’re comfortable working on an agile team at a small start-up, and you understand that priorities change and sometimes hours run late. You’re adaptable and you don’t mind jumping in when someone else on the team needs help.
+- You’re excited about our mission. You love the idea of shaping the future of commerce, and the democratization of the creator economy.
+
+What you’ll do:
+- Work on our Agile team to ship high-quality releases fast and often.
+- Play a critical role in maintaining and developing our frontend features.
+- Help plan, design, implement and maintain features.
+
+Our tech stack:
+Node.js
+Next.js
+Vercel
+Express
+GraphQL
+Postgres
+React Native
+GCP (Cloud Run, Cloud SQL, Pub/Sub, BigQuery)
+Terraform
+Sentry
+Metabase
+
+Skills and qualifications we’re looking for:
+- 5+ years of experience working at growth-focused, early-to-mid stage startups.
+- Domain expertise in commerce and the creator economy.
+- A degree in Computer Science, Engineering, or a related field.
+- Experience building React frontends as part of a startup product team.
+- Familiarity with most or at least a good chunk of our tech stack.
+- Experience with Agile software development methodologies.
+
+What We Offer:
+- A pivotal role in a rapidly growing startup set to revolutionize the consumer and creator economy. It’s a small team and everyone is vital for our success.
+- Substantial equity stake in the startup, aligning your success with ours, competitive base salary, and health benefits.
+- The opportunity to shape the future of commerce with a diverse group of successful, talented and motivated colleagues.
+
+Apply now to join our team!",Los Angeles,5+ years,1
+f4763e556bfbcceffd02252e4a0886a5,Business Development Representative - Ecosystem Specialist - US East Coast,业务开发代表 - 生态系统专家,Business Development Representative - Ecosystem Specialist,Crossbeam,"驱动生态系统增长,SaaS行业,激活合作伙伴网络,管理战略客户账户,美企,期权计划,跨部门协作","驱动生态系统增长,SaaS行业,激活合作伙伴网络,管理战略客户账户,美企,期权计划,跨部门协作","Driving Ecosystem Growth,SaaS Industry,Activating Partner Networks,Managing Strategic Accounts,US-based Company,Stock Option Plan,Cross-functional Collaboration",42-45K,42-45K,2026-01-09,Wellfound,Wellfound,https://wellfound.com/jobs/3722065-business-development-representative-ecosystem-specialist-us-east-coast,国外,"APPLY HERE
+
+About Crossbeam
+It’s an exciting time at Crossbeam. We built our company on a simple but powerful realization: partner ecosystems hold untapped potential to transform how companies go to market. That insight became a movement, now embraced by more than 30,000 companies using Crossbeam to unlock new data, build new growth engines, and provide powerful new market context to their AI agents. We’re scaling with speed, focus, and a vision that’s reshaping the future of go-to-market, backed by top-tier investors like Andreessen Horowitz, Insight Partners, Redpoint, FirstMark, Salesforce Ventures, and HubSpot Ventures (yep, the biggest CRMs are investing in the future of go-to-market).
+
+The opportunity ahead is exciting, and we’re pursuing it with curiosity, high standards, and a shared commitment to doing the best work of our careers.
+
+At Crossbeam, we’re redefining how companies grow by putting ecosystems at the heart of go-to-market strategy.
+
+We’re looking for a motivated and ecosystem-minded BDR - Ecosystem Specialist to join our Business Development team. In this role, you’ll manage a mix of strategic customer accounts (our “Gravity Nodes”) and high-potential prospects. Your focus: generate pipeline and accelerate deals by activating partner relationships and leveraging ecosystem signals.
+
+This isn’t a typical BDR role, you’ll sit at the intersection of Sales, Partnerships, and Customer Success, driving Ecosystem-Led Growth (ELG). By activating partner networks and turning ecosystem insights into opportunities, you’ll accelerate revenue and help companies grow through each other.
+
+What You’ll Do
+
+Drive pipeline with customer ecosystems
+
+Own a portfolio of Gravity Node accounts (our top customers with large ecosystems).
+Partner with customer teams to identify and activate their most strategic partners on Crossbeam.
+Become the go-to BD point of contact for onboarding and activating those partners, surfacing qualified opportunities for AEs.
+
+Generate new business with product and ecosystem signals
+
+Manage a portfolio of cold prospects and free users.
+Use ecosystem overlaps, partner insights, and product usage data to prioritize outreach.
+Create warm entry points and book high-quality first meetings with prospects.
+
+Onboard and activate new users
+
+Guide new users through setup and help them realize initial value.
+Ensure seamless onboarding until accounts are ready for Sales qualification.
+
+Collaborate cross-functionally
+
+Work closely with Sales, Partnerships, and Customer Success to bring Ecosystem Led Growth to life at every stage of the sales cycle.
+Share partner insights, influence pipeline, and support strategic initiatives with other GTM teams.
+
+Stay current and contribute
+
+Stay on top of ecosystem trends, GTM strategies, and use cases.
+Share learnings and help shape how Crossbeam and our customers win through partnerships.
+
+Success Looks Like
+
+Consistently hitting monthly and quarterly pipeline targets.
+Activating and onboarding new users successfully.
+Helping AEs identify more opportunities and close deals faster through ecosystem engagement.
+
+APPLY HERE
+
+Who you are
+
+2+ years as an Enterprise BDR, BDR Lead, Partner Manager, or Partner Sales Rep.
+Demonstrated drive, grit, creativity, and proactivity. Are target-driven and love turning warm signals into real pipelines.
+Ask great questions, stay curious, and are always ready to learn
+Comfortable working with strategic/enterprise accounts and complex org structures. Can hold a confident, thoughtful conversation with execs and users alike
+Strong communicator
+CRM experience (Salesforce preferred; Salesloft or similar a plus).
+Bonus: Partnerships experience or Crossbeam product knowledge; exposure to AI-driven tools or data enrichment platforms.
+
+Interview Process
+We go through the same interview steps for all Business Development candidates to ensure equity in our hiring process. Our process is designed to learn as much about each candidate as possible, as well as to give candidates access to our team and learn about what it's like to be a team member at Crossbeam. Topics will range from technical skills to problem-solving approaches and collaboration.
+
+HR interview - 30 minutes
+Call with Director of Business Development - 30 minutes
+Business case presentation with Sales leader - 30 minutes
+Call with CRO or COO - 30 minutes
+
+*Benefits *
+This is a salaried role + commission. In addition, Crossbeam offers:
+
+Health Care Plan (Medical, Dental & Vision)
+Flexible PTO Policy
+Parental leave
+Stock Option Plan
+401k Plan + Match
+Learning & Development Budget
+Remote Work Options
+Generous Wellness Stipend*
+
+This role has been categorized as a Hybrid, Philadelphia-based position. In certain cases, an employee in a remote-designated job may need to live in a specific region or time zone to support customers or clients as part of their role. In addition to a competitive base salary this position is also eligible for equity awards based on factors such as experience, performance and location. Actual amounts will vary depending on experience, performance and location.
+
+Our Core Values
+Values are a social contract that we have with our team, our users, and our communities. They are guiding lights as well as argument-enders, and we expect results delivered in a way that is consistent with these values.
+
+Trust is our Foundation
+
+We create value by building trust in our company, our team, and our technology. That goes in all directions, not just between us and our customers but also amongst ourselves. We approach conflict with empathy and curiosity, and ascribe best intentions to all of our collaborators.
+
+Work Hard and Smart
+
+This is a startup, and we will act like one. We prioritize impact, take personal ownership of outcomes, act decisively, and get our hands dirty in the process. We communicate clearly, avoid over-engineering, and take risks. This allows us to be creative, innovative, and solution-oriented.
+
+Default to Transparency
+
+We will not succeed in information silos. We share the good, bad, and ugly about what is happening in our company, which requires us to pay attention, always measure what matters, and hold each other accountable.
+
+Belonging
+
+In our workplaces, communities, and ecosystems, we shape environments where people feel a sense of belonging. To do this, we work to ensure that stakeholders of all backgrounds are treated equitably and experience psychological and physical safety. This is key to their relationship with our company, their access to opportunities, and their ability to thrive.
+
+Treasure the Fun
+
+We are incredibly lucky to be here — let’s make memories. We will all spend that extra bit of time and energy to energize each other with fun and inspiring experiences. This applies internally and externally, from the smallest interactions to the largest events.
+
+Crossbeam's core value of Equity sits at the heart of our hiring process, and we're proud to be building a culture where difference is valued. Applicants from diverse and non-traditional backgrounds are strongly encouraged to apply. We recruit, employ, train, compensate and promote regardless of race, religion, color, national origin, sex, sexual orientation, gender, disability, age, or veteran status.
+**
+Equal Opportunity Employer**
+
+We’re proud to be an Equal Opportunity Employer and are committed to building a team that reflects a wide variety of backgrounds, perspectives, and skills. We don’t discriminate on the basis of race, color, religion, national origin, age, sex, gender identity or expression, sexual orientation, disability, veteran status, genetic information, or any other protected characteristic.
+
+If you need reasonable accommodations during any part of the application or interview process, please let us know—we’re happy to support you.","在此申请
+
+关于 Crossbeam
+这是 Crossbeam 一个令人兴奋的时刻。我们建立公司的初衷是一个简单但强大的认识：合作伙伴生态系统在改变公司进入市场（GTM）的方式方面拥有尚未开发的巨大潜力。这一洞察已演变成一场运动，现在已有超过 30,000 家公司使用 Crossbeam 来解锁新数据、构建新增长引擎，并为其 AI 代理提供强大的新市场背景。在 Andreessen Horowitz、Insight Partners、Redpoint、FirstMark、Salesforce Ventures 和 HubSpot Ventures 等顶级投资者的支持下，我们正以速度、专注和重塑去中心化市场未来的愿景进行扩张（是的，最大的 CRM 厂商都在投资去中心化市场的未来）。
+
+前方的机会令人兴奋，我们正以好奇心、高标准和共同致力于完成职业生涯中最佳工作的承诺来追求它。
+
+在 Crossbeam，我们通过将生态系统置于去中心化策略的核心，重新定义公司的增长方式。
+
+我们正在寻找一位动力十足且具有生态系统思维的业务开发代表 (BDR) - 生态系统专家加入我们的业务开发团队。在此角色中，您将管理战略客户账户（我们的“引力节点”）和高潜力潜在客户。您的重点：通过激活合作伙伴关系和利用生态系统信号来生成销售管道并加速交易。
+
+这并非典型的 BDR 角色，您将处于销售、合作伙伴关系和客户成功部门的交汇点，推动生态系统主导型增长 (ELG)。通过激活合作伙伴网络并将生态系统洞察转化为机遇，您将加速营收增长并帮助公司互惠互利地成长。
+
+您的工作内容
+
+利用客户生态系统驱动销售管道
+
+管理引力节点 (Gravity Node) 账户组合（我们拥有大型生态系统的顶尖客户）。
+与客户团队合作，识别并激活他们在 Crossbeam 上最具战略意义的合作伙伴。
+成为这些合作伙伴入驻和激活的首选业务开发联系点，为客户经理 (AE) 发掘合格的机遇。
+
+利用产品和生态系统信号开发新业务
+
+管理冷门潜在客户和免费用户的组合。
+利用生态系统重合、合作伙伴洞察和产品使用数据来确定外联优先级。
+创造热点切入点，并与潜在客户预约高质量的首次会议。
+
+入驻并激活新用户
+
+引导新用户完成设置并帮助他们实现初始价值。
+确保无缝入驻，直到账户准备好进行销售资格评估。
+
+跨部门协作
+
+与销售、合作伙伴关系和客户成功团队密切合作，在销售周期的每个阶段实现生态系统主导型增长 (ELG)。
+分享合作伙伴洞察，影响销售管道，并与其他去中心化市场 (GTM) 团队共同支持战略倡议。
+
+保持前沿并做出贡献
+
+紧跟生态系统趋势、GTM 策略和用例。
+分享学习成果，帮助塑造 Crossbeam 及其客户通过合作伙伴关系获胜的方式。
+
+成功的定义
+
+持续达成月度和季度销售管道目标。
+成功激活并入驻新用户。
+通过生态系统互动帮助 AE 识别更多机会并更快达成交易。
+
+在此申请
+
+任职要求
+
+2年以上企业级 BDR、BDR 主管、合作伙伴经理或合作伙伴销售代表经验。
+展现出动力、毅力、创造力和主动性。以目标为导向，热衷于将热情信号转化为真实的销售管道。
+善于提问，保持好奇，并随时准备学习。
+能够从容应对战略/企业账户和复杂的组织架构。能够与高管和用户进行自信、深入的对话。
+沟通能力强。
+具备 CRM 经验（首选 Salesforce；熟悉 Salesloft 或类似工具者优先）。
+加分项：具有合作伙伴关系经验或 Crossbeam 产品知识；接触过 AI 驱动工具或数据增强平台。
+
+面试流程
+我们对所有业务开发职位的候选人执行相同的面试步骤，以确保招聘过程的公平性。我们的流程旨在尽可能多地了解每位候选人，同时也让候选人接触我们的团队，了解在 Crossbeam 工作的感受。主题涵盖从技术技能到问题解决方法及协作能力。
+
+HR 面试 - 30 分钟
+业务开发总监面试 - 30 分钟
+销售领导业务案例展示 - 30 分钟
+首席营收官 (CRO) 或首席运营官 (COO) 面试 - 30 分钟
+
+福利待遇
+本职位为固定薪资 + 佣金。此外，Crossbeam 还提供：
+
+医疗保健计划（医疗、牙科和视力）
+灵活的带薪休假 (PTO) 政策
+育儿假
+股票期权计划
+401k 计划 + 配比
+学习与发展预算
+远程办公选择
+优厚的健身津贴*
+
+此职位被归类为在费城的混合办公模式。在某些情况下，远程职位的员工可能需要居住在特定的地区或时区，以支持客户。除了具有竞争力的基本工资外，该职位还有权根据经验、表现和地点获得股权奖励。实际金额将根据经验、表现和地点而有所不同。
+
+我们的核心价值观
+价值观是我们与团队、用户和社区达成的社会契约。它们是指导明灯，也是争议的终结者，我们期望以符合这些价值观的方式交付成果。
+
+信任是我们的基石
+我们通过建立对公司、团队和技术的信任来创造价值。这种信任是全方位的，不仅存在于我们与客户之间，也存在于我们同事之间。我们以共情和好奇心对待冲突，并对所有合作伙伴抱以最大的善意。
+
+努力且聪明地工作
+这是一家初创公司，我们将展现初创公司的风貌。我们优先考虑影响力，对结果承担个人责任，果断行动，并在过程中亲力亲为。我们沟通清晰，避免过度设计，并勇于承担风险。这使我们能够保持创造力、创新精神和以解决方案为导向。
+
+默认透明
+我们不会在信息孤岛中获得成功。我们分享公司正在发生的好事、坏事和丑事，这要求我们保持关注，始终衡量重要事项，并互相监督负责。
+
+归属感
+在我们的工作场所、社区和生态系统中，我们塑造人们具有归属感的环境。为此，我们努力确保各种背景的利益相关者都能获得公平对待，并感受到心理和生理上的安全。这是他们与公司关系、获得机会的能力以及茁壮成长能力的关键。
+
+珍惜乐趣
+我们非常幸运能在这里——让我们留下回忆。我们都会投入额外的精力和时间，通过有趣且富有启发性的体验来激励彼此。这适用于对内和对外，从最小的互动到最大的活动。
+
+Crossbeam 的核心价值观“公平”处于我们招聘流程的核心，我们为建立一种珍视差异的文化感到自豪。强烈鼓励来自多元化和非传统背景的申请人申请。我们的招募、雇佣、培训、薪酬和晋升不分种族、宗教、肤色、国籍、性别、性取向、性别认同、残疾、年龄或退伍军官身份。
+
+平等机会雇主
+我们很荣幸成为一家平等机会雇主，并致力于建立一支反映各种背景、观点和技能的团队。我们不因种族、肤色、宗教、国籍、年龄、性别、性别认同或表达、性取向、残疾、退伍军人身份、遗传信息或任何其他受保护特征而歧视他人。
+
+如果您在申请或面试过程的任何阶段需要合理的无障碍协助，请告知我们——我们很乐意为您提供支持。","APPLY HERE
+
+About Crossbeam
+It’s an exciting time at Crossbeam. We built our company on a simple but powerful realization: partner ecosystems hold untapped potential to transform how companies go to market. That insight became a movement, now embraced by more than 30,000 companies using Crossbeam to unlock new data, build new growth engines, and provide powerful new market context to their AI agents. We’re scaling with speed, focus, and a vision that’s reshaping the future of go-to-market, backed by top-tier investors like Andreessen Horowitz, Insight Partners, Redpoint, FirstMark, Salesforce Ventures, and HubSpot Ventures (yep, the biggest CRMs are investing in the future of go-to-market).
+
+The opportunity ahead is exciting, and we’re pursuing it with curiosity, high standards, and a shared commitment to doing the best work of our careers.
+
+At Crossbeam, we’re redefining how companies grow by putting ecosystems at the heart of go-to-market strategy.
+
+We’re looking for a motivated and ecosystem-minded BDR - Ecosystem Specialist to join our Business Development team. In this role, you’ll manage a mix of strategic customer accounts (our “Gravity Nodes”) and high-potential prospects. Your focus: generate pipeline and accelerate deals by activating partner relationships and leveraging ecosystem signals.
+
+This isn’t a typical BDR role, you’ll sit at the intersection of Sales, Partnerships, and Customer Success, driving Ecosystem-Led Growth (ELG). By activating partner networks and turning ecosystem insights into opportunities, you’ll accelerate revenue and help companies grow through each other.
+
+What You’ll Do
+
+Drive pipeline with customer ecosystems
+
+Own a portfolio of Gravity Node accounts (our top customers with large ecosystems).
+Partner with customer teams to identify and activate their most strategic partners on Crossbeam.
+Become the go-to BD point of contact for onboarding and activating those partners, surfacing qualified opportunities for AEs.
+
+Generate new business with product and ecosystem signals
+
+Manage a portfolio of cold prospects and free users.
+Use ecosystem overlaps, partner insights, and product usage data to prioritize outreach.
+Create warm entry points and book high-quality first meetings with prospects.
+
+Onboard and activate new users
+
+Guide new users through setup and help them realize initial value.
+Ensure seamless onboarding until accounts are ready for Sales qualification.
+
+Collaborate cross-functionally
+
+Work closely with Sales, Partnerships, and Customer Success to bring Ecosystem Led Growth to life at every stage of the sales cycle.
+Share partner insights, influence pipeline, and support strategic initiatives with other GTM teams.
+
+Stay current and contribute
+
+Stay on top of ecosystem trends, GTM strategies, and use cases.
+Share learnings and help shape how Crossbeam and our customers win through partnerships.
+
+Success Looks Like
+
+Consistently hitting monthly and quarterly pipeline targets.
+Activating and onboarding new users successfully.
+Helping AEs identify more opportunities and close deals faster through ecosystem engagement.
+
+APPLY HERE
+
+Who you are
+
+2+ years as an Enterprise BDR, BDR Lead, Partner Manager, or Partner Sales Rep.
+Demonstrated drive, grit, creativity, and proactivity. Are target-driven and love turning warm signals into real pipelines.
+Ask great questions, stay curiosity, and are always ready to learn.
+Comfortable working with strategic/enterprise accounts and complex org structures. Can hold a confident, thoughtful conversation with execs and users alike.
+Strong communicator.
+CRM experience (Salesforce preferred; Salesloft or similar a plus).
+Bonus: Partnerships experience or Crossbeam product knowledge; exposure to AI-driven tools or data enrichment platforms.
+
+Interview Process
+We go through the same interview steps for all Business Development candidates to ensure equity in our hiring process. Our process is designed to learn as much about each candidate as possible, as well as to give candidates access to our team and learn about what it's like to be a team member at Crossbeam. Topics will range from technical skills to problem-solving approaches and collaboration.
+
+HR interview - 30 minutes
+Call with Director of Business Development - 30 minutes
+Business case presentation with Sales leader - 30 minutes
+Call with CRO or COO - 30 minutes
+
+Benefits
+This is a salaried role + commission. In addition, Crossbeam offers:
+
+Health Care Plan (Medical, Dental & Vision)
+Flexible PTO Policy
+Parental leave
+Stock Option Plan
+401k Plan + Match
+Learning & Development Budget
+Remote Work Options
+Generous Wellness Stipend*
+
+This role has been categorized as a Hybrid, Philadelphia-based position. In certain cases, an employee in a remote-designated job may need to live in a specific region or time zone to support customers or clients as part of their role. In addition to a competitive base salary this position is also eligible for equity awards based on factors such as experience, performance and location. Actual amounts will vary depending on experience, performance and location.
+
+Our Core Values
+Values are a social contract that we have with our team, our users, and our communities. They are guiding lights as well as argument-enders, and we expect results delivered in a way that is consistent with these values.
+
+Trust is our Foundation
+We create value by building trust in our company, our team, and our technology. That goes in all directions, not just between us and our customers but also amongst ourselves. We approach conflict with empathy and curiosity, and ascribe best intentions to all of our collaborators.
+
+Work Hard and Smart
+This is a startup, and we will act like one. We prioritize impact, take personal ownership of outcomes, act decisively, and get our hands dirty in the process. We communicate clearly, avoid over-engineering, and take risks. This allows us to be creative, innovative, and solution-oriented.
+
+Default to Transparency
+We will not succeed in information silos. We share the good, bad, and ugly about what is happening in our company, which requires us to pay attention, always measure what matters, and hold each other accountable.
+
+Belonging
+In our workplaces, communities, and ecosystems, we shape environments where people feel a sense of belonging. To do this, we work to ensure that stakeholders of all backgrounds are treated equitably and experience psychological and physical safety. This is key to their relationship with our company, their access to opportunities, and their ability to thrive.
+
+Treasure the Fun
+We are incredibly lucky to be here — let’s make memories. We will all spend that extra bit of time and energy to energize each other with fun and inspiring experiences. This applies internally and externally, from the smallest interactions to the largest events.
+
+Crossbeam's core value of Equity sits at the heart of our hiring process, and we're proud to be building a culture where difference is valued. Applicants from diverse and non-traditional backgrounds are strongly encouraged to apply. We recruit, employ, train, compensate and promote regardless of race, religion, color, national origin, sex, sexual orientation, gender, disability, age, or veteran status.
+
+Equal Opportunity Employer
+We’re proud to be an Equal Opportunity Employer and are committed to building a team that reflects a wide variety of backgrounds, perspectives, and skills. We don’t discriminate on the basis of race, color, religion, national origin, age, sex, gender identity or expression, sexual orientation, disability, veteran status, genetic information, or any other protected characteristic.
+
+If you need reasonable accommodations during any part of the application or interview process, please let us know—we’re happy to support you.",Boston • New York City • Philadelphia,2+ years,1
+bef191fcf6999f26b7769361b2fff54c,Senior/Staff Software Engineer (Platform),高级/资深平台软件工程师,Senior/Staff Software Engineer (Platform),Konko AI,"医疗Agent平台开发,医疗科技行业,Python+Postgres,FHIR医疗数据模型,美企初创公司,竞争性薪资与期权,跨时区异步协作","医疗Agent平台开发,医疗科技行业,Python+Postgres,FHIR医疗数据模型,美企初创公司,竞争性薪资与期权,跨时区异步协作","Medical Agent Platform Development,HealthTech Industry,Python+Postgres,FHIR Data Modeling,US Startup,Competitive Salary & Equity,Cross-timezone Async Collaboration",84-132K·0.1%–1.0%股,84-132K·0.1%–1.0%,2026-01-09,Wellfound,Wellfound,https://wellfound.com/jobs/3722136-senior-staff-software-engineer-platform,国外,"The Company
+
+Konko AI is building the agent-native EHR for Latin America. Our AI agents take work off the clinic’s plate—automating intake, transcription, data capture, scheduling, and follow-ups—while turning unstructured workflows into structured, auditable clinical data. Clinics see 20–50% growth, staff reclaim 3–4 hours per day, and patients get a faster, clearer experience. We’re an experienced, high-bar team (Tesla, C3 AI, BCG, Harvard, UCLA, Georgia Tech) operating inside real clinics today and scaling quickly across LATAM—building a category-defining company.
+
+The Role
+
+Shape a running agent platform into a clinician-grade product and an agent-native EHR. Extend configurable per-clinic workflows, connect them to a FHIR data spine, and help ship focused React/TypeScript surfaces where they unlock daily operations. Your work automates transcription and data entry, streamlines patient operations, and replaces legacy EHR modules over time. Senior IC on a CET-centric team with a high bar for performance and craft.
+
+What You’ll Do
+Expand configurable clinic workflows so agents automate real work: intake, transcription, data capture, scheduling, and follow-ups.
+Implement a practical FHIR interop layer (via Medplum) for core resources—Patient, Appointment, Encounter, Practitioner, Location, Consent, DocumentReference.
+Build migration and integration tooling to bring data from legacy EHRs/schedulers into our model/FHIR with validation, dry-runs, and safe rollbacks.
+Deliver thin, fast operator/EHR surfaces in React/TypeScript (patient registry, timeline, appointments board, consent tracker) that clinicians actually use.
+Raise observability and reliability across the platform with clear SLOs, tracing, actionable logs, and privacy/audit boundaries by tenant.
+Improve developer ergonomics: local dev harnesses, golden datasets, CI gates that prevent regressions, and lightweight docs that speed onboarding.
+Partner with Solutions Engineering to translate real clinic workflows into reusable building blocks; set a high bar in design and code reviews.
+You Are
+A senior IC who owns outcomes end-to-end and ships production quality.
+A systems-plus-product thinker: you model workflows, design clear APIs/data models, and keep things simple.
+Fast, pragmatic, and 80/20 by default—small slices, quick iterations, measurable impact.
+High bar for performance and craft: testing discipline, thoughtful abstractions, solid DX.
+Backend-first: able to contribute to front-end when it unlocks value.
+Security-minded and careful with patient data; you respect boundaries and audits.
+Collaborative and direct: crisp design docs, clear async communication, strong code reviews.
+Comfortable with ambiguity and changing requirements; CET-friendly working hours.
+Minimum Qualifications
+Senior-level impact in production systems (typically 3–5+ years); Staff-track experience welcome.
+1+ years of experience at a venture backed startup.
+Strong Python with async fundamentals (asyncio), type safety, and packaging.
+Event-driven backends and background jobs (queues, scheduling, retries) and resilient data sync between systems.
+Postgres expertise: schema design, migrations, indexing, transactional integrity.
+Integrations/ETL: import/export pipelines with validation, auditability, and safe rollback.
+Infrastructure: GCP/GKE, Kubernetes/Helm, and Terraform (IaC) to design and operate cloud services.
+CI/CD: ability to write GitHub Actions (or similar) workflows, add test/eval gates, and manage environment promotion.
+Observability: traces/logs/metrics you actually use; define and hold SLOs; on-call ownership.
+Security fundamentals: authN/authZ, multi-tenant separation, key/secret management.
+Nice to Have
+React/TypeScript front-end experience for operator/EHR surfaces.
+FHIR R4 and/or Medplum; prior work with healthcare data models.
+Data migration from legacy EHRs/schedulers; field mapping and reconciliation strategies.
+OpenTelemetry, Metabase, Arize/Phoenix for model/ops monitoring.
+Exposure to LATAM privacy/regulatory contexts (e.g., LFPDPPP, NOM-024/NOM-004).
+Experience building operator/admin tools and lightweight internal platforms.
+Our Tech Stack
+Languages: Python, TypeScript
+LLM APIs: OpenAI on Azure
+Databases: PostgreSQL, Redis, S3, GCS
+Cloud Providers and Infrastructure: AWS, GCP, Azure, Vercel
+Dev Tools: Github, Docker, Kubernetes, Terraform
+APIs & Middleware: FastAPI
+Authentication & Authorization: Auth0
+Monitoring & Logging: Phoenix Arize, Prometheus, Grafana
+CI/CD: Github Actions
+Collaboration: Slack, Notion, Attio, Lucidchart, Linear
+BI Tools: Metabase
+Working Model
+
+Fully Remote. Team is primarily in CET but we work async globally
+
+Compensation
+
+Competitive + meaningful equity","公司简介
+
+Konko AI 正在为拉美地区构建 Agent 原生型 EHR（电子健康记录）。我们的 AI Agent 承担了诊所的大量工作——自动化处理挂号、转录、数据采集、排班和随访——同时将非结构化工作流转化为结构化、可审计的临床数据。诊所因此实现了 20-50% 的增长，员工每天可节省 3-4 小时，患者也能获得更快速、更清晰的体验。我们是一支经验丰富、高标准的团队（成员来自 Tesla、C3 AI、BCG、哈佛、加州大学洛杉矶分校、佐治亚理工学院），目前已在拉美地区的真实诊所投入运营并快速扩张，致力于打造一家定义类别的公司。
+
+角色职责
+
+将运行中的 Agent 平台打造成临床级产品和 Agent 原生型 EHR。扩展每个诊所可配置的工作流，将其连接到 FHIR 数据中枢，并协助发布聚焦于 React/TypeScript 的界面以支持日常运营。您的工作将实现转录和数据录入的自动化，简化患者运营，并逐步取代传统的 EHR 模块。您将作为一支以中欧时间（CET）为中心的团队中的资深个人贡献者（IC），秉持高性能和高工艺标准。
+
+工作内容
+扩展可配置的诊所工作流，使 Agent 能够自动化处理实际工作：挂号、转录、数据采集、排班和随访。
+为核心资源（患者、预约、就诊、从业者、地点、同意书、文档引用）实现实用的 FHIR 互操作层（通过 Medplum）。
+构建迁移和集成工具，将数据从传统 EHR/排班系统引入我们的模型/FHIR，并进行验证、模拟运行和安全回滚。
+交付基于 React/TypeScript 的轻量、快速的操作员/EHR 界面（患者登记、时间轴、预约板、同意书追踪），供临床医生实际使用。
+通过清晰的 SLO、追踪、可操作日志以及按租户划分的隐私/审计边界，提升整个平台的观测性和可靠性。
+改进开发者体验：本地开发套件、黄金数据集、防止回归的 CI 门控以及加速入职的轻量级文档。
+与解决方案工程团队合作，将真实的诊所工作流转化为可复用的构建模块；在设计和代码审查中设定高标准。
+
+任职要求
+作为资深个人贡献者，能端到端负责成果并交付生产级质量的代码。
+系统加产品的思维方式：能够对工作流进行建模，设计清晰的 API/数据模型，并保持简洁。
+快速、务实，默认遵循 80/20 原则——小步快跑，快速迭代，产生可衡量的影响。
+对性能和工艺有高标准：严谨的测试、周全的抽象、稳健的开发者体验（DX）。
+以后端为主：在能体现价值时，有能力贡献前端代码。
+具备安全意识，对患者数据保持谨慎；尊重边界和审计要求。
+善于协作且直诚：能够编写简洁的设计文档，进行清晰的异步沟通，以及高质量的代码审查。
+适应模糊性和多变的需求；适应中欧时间（CET）的工作时间。
+
+最低资格
+在生产系统中有高级别的影响力（通常为 3-5 年以上经验）；欢迎具备资深/首席（Staff）潜力的人才。
+1 年以上在风险投资支持的初创公司工作的经验。
+精通 Python 及异步编程基础（asyncio）、类型安全和打包。
+具备事件驱动型后端和后台任务（队列、调度、重试）经验，以及系统间可靠的数据同步经验。
+精通 Postgres：架构设计、迁移、索引、事务完整性。
+集成/ETL 经验：具备验证、可审计性和安全回滚能力的导入/导出管道。
+基础设施：GCP/GKE、Kubernetes/Helm 和 Terraform (IaC)，用于设计和运行云服务。
+CI/CD：能够编写 GitHub Actions（或类似）工作流，添加测试/评估门控，并管理环境晋级。
+可观测性：实际使用追踪/日志/指标；定义并维护 SLO；承担 On-call 职责。
+安全基础：身份验证/授权（AuthN/AuthZ）、多租户隔离、密钥/机密管理。
+
+加分项
+具备用于操作员/EHR 界面的 React/TypeScript 前端经验。
+熟悉 FHIR R4 和/或 Medplum；曾有医疗数据模型的工作经验。
+传统 EHR/排班系统的数据迁移经验；字段映射和对账策略。
+使用 OpenTelemetry、Metabase、Arize/Phoenix 进行模型/运营监控的经验。
+了解拉美地区的隐私/监管环境（如 LFPDPPP、NOM-024/NOM-004）。
+构建操作员/管理员工具和轻量级内部平台的经验。
+
+技术栈
+语言：Python, TypeScript
+LLM API：Azure 上的 OpenAI
+数据库：PostgreSQL, Redis, S3, GCS
+云服务商与基础设施：AWS, GCP, Azure, Vercel
+开发工具：Github, Docker, Kubernetes, Terraform
+API 与中间件：FastAPI
+身份验证与授权：Auth0
+监控与日志：Phoenix Arize, Prometheus, Grafana
+CI/CD：Github Actions
+协作工具：Slack, Notion, Attio, Lucidchart, Linear
+商业智能工具：Metabase
+
+工作模式
+
+完全远程。团队主要位于中欧时间（CET），但我们在全球范围内进行异步工作。
+
+薪酬福利
+
+具竞争力的薪资 + 丰厚的期权","The Company
+
+Konko AI is building the agent-native EHR for Latin America. Our AI agents take work off the clinic’s plate—automating intake, transcription, data capture, scheduling, and follow-ups—while turning unstructured workflows into structured, auditable clinical data. Clinics see 20–50% growth, staff reclaim 3–4 hours per day, and patients get a faster, clearer experience. We’re an experienced, high-bar team (Tesla, C3 AI, BCG, Harvard, UCLA, Georgia Tech) operating inside real clinics today and scaling quickly across LATAM—building a category-defining company.
+
+The Role
+
+Shape a running agent platform into a clinician-grade product and an agent-native EHR. Extend configurable per-clinic workflows, connect them to a FHIR data spine, and help ship focused React/TypeScript surfaces where they unlock daily operations. Your work automates transcription and data entry, streamlines patient operations, and replaces legacy EHR modules over time. Senior IC on a CET-centric team with a high bar for performance and craft.
+
+What You’ll Do
+Expand configurable clinic workflows so agents automate real work: intake, transcription, data capture, scheduling, and follow-ups.
+Implement a practical FHIR interop layer (via Medplum) for core resources—Patient, Appointment, Encounter, Practitioner, Location, Consent, DocumentReference.
+Build migration and integration tooling to bring data from legacy EHRs/schedulers into our model/FHIR with validation, dry-runs, and safe rollbacks.
+Deliver thin, fast operator/EHR surfaces in React/TypeScript (patient registry, timeline, appointments board, consent tracker) that clinicians actually use.
+Raise observability and reliability across the platform with clear SLOs, tracing, actionable logs, and privacy/audit boundaries by tenant.
+Improve developer ergonomics: local dev harnesses, golden datasets, CI gates that prevent regressions, and lightweight docs that speed onboarding.
+Partner with Solutions Engineering to translate real clinic workflows into reusable building blocks; set a high bar in design and code reviews.
+
+You Are
+A senior IC who owns outcomes end-to-end and ships production quality. 
+A systems-plus-product thinker: you model workflows, design clear APIs/data models, and keep things simple.
+Fast, pragmatic, and 80/20 by default—small slices, quick iterations, measurable impact.
+High bar for performance and craft: testing discipline, thoughtful abstractions, solid DX.
+Backend-first: able to contribute to front-end when it unlocks value.
+Security-minded and careful with patient data; you respect boundaries and audits.
+Collaborative and direct: crisp design docs, clear async communication, strong code reviews.
+Comfortable with ambiguity and changing requirements; CET-friendly working hours.
+
+Minimum Qualifications
+Senior-level impact in production systems (typically 3–5+ years); Staff-track experience welcome.
+1+ years of experience at a venture backed startup.
+Strong Python with async fundamentals (asyncio), type safety, and packaging.
+Event-driven backends and background jobs (queues, scheduling, retries) and resilient data sync between systems.
+Postgres expertise: schema design, migrations, indexing, transactional integrity.
+Integrations/ETL: import/export pipelines with validation, auditability, and safe rollback.
+Infrastructure: GCP/GKE, Kubernetes/Helm, and Terraform (IaC) to design and operate cloud services.
+CI/CD: ability to write GitHub Actions (or similar) workflows, add test/eval gates, and manage environment promotion.
+Observability: traces/logs/metrics you actually use; define and hold SLOs; on-call ownership.
+Security fundamentals: authN/authZ, multi-tenant separation, key/secret management.
+
+Nice to Have
+React/TypeScript front-end experience for operator/EHR surfaces.
+FHIR R4 and/or Medplum; prior work with healthcare data models.
+Data migration from legacy EHRs/schedulers; field mapping and reconciliation strategies.
+OpenTelemetry, Metabase, Arize/Phoenix for model/ops monitoring.
+Exposure to LATAM privacy/regulatory contexts (e.g., LFPDPPP, NOM-024/NOM-004).
+Experience building operator/admin tools and lightweight internal platforms.
+
+Our Tech Stack
+Languages: Python, TypeScript
+LLM APIs: OpenAI on Azure
+Databases: PostgreSQL, Redis, S3, GCS
+Cloud Providers and Infrastructure: AWS, GCP, Azure, Vercel
+Dev Tools: Github, Docker, Kubernetes, Terraform
+APIs & Middleware: FastAPI
+Authentication & Authorization: Auth0
+Monitoring & Logging: Phoenix Arize, Prometheus, Grafana
+CI/CD: Github Actions
+Collaboration: Slack, Notion, Attio, Lucidchart, Linear
+BI Tools: Metabase
+
+Working Model
+
+Fully Remote. Team is primarily in CET but we work async globally
+
+Compensation
+
+Competitive + meaningful equity",New York City • Amsterdam,5+ years,1
+8eefd868eb93a516b73c883b347bed81,Enterprise Account Executive,大客户销售经理,Enterprise Account Executive,Prokeep,"拓展大型合作伙伴关系,分销与供应链SaaS,SaaS大客户销售,业务开发与谈判,美企初创公司,股权激励,弹性带薪年假","拓展大型合作伙伴关系,分销与供应链SaaS,SaaS大客户销售,业务开发与谈判,美企初创公司,股权激励,弹性带薪年假","Expanding large partnerships,Distribution & Supply Chain SaaS,SaaS Enterprise Sales,Business Development & Negotiation,US Startup,Equity incentives,Flexible PTO",150-180K,150-180K,2026-01-08,Wellfound,Wellfound,https://wellfound.com/jobs/3718366-enterprise-account-executive,国外,"About Us
+
+Prokeep is an Order Engine on a mission to empower distributors to win by turning every customer interaction into an order opportunity.
+Trusted by 8,000+ distributor locations and 40,000+ users, Prokeep makes it easy for over 3 million contractors, technicians, plumbers, electricians, mechanics, and other skilled professionals to order parts, troubleshoot issues, and generally, get what they need and get on with their day.
+Built for the $100+ billion distribution market, Prokeep eliminates missed opportunities caused by busy phone lines, scattered customer data, and passive sales habits. By centralizing communication and enabling proactive outreach, we help teams take more orders from any channel and get more orders by driving demand—fueling growth, stronger relationships, and greater impact across the supply chain.
+Having recently secured a $25M Series A investment, we’re poised for rapid growth and innovation. If you're passionate about tackling complex challenges in a collaborative, fast-paced environment while contributing to an often-overlooked yet vital sector of the economy, we’d love to have you on board.
+Let’s shape the future together—one order at a time!
+
+Prokeep Values
+
+Build Together. – Collaboration, camaraderie, and customer-focus are core to how we collectively work and win.
+Own It. – Persistence and personal growth drive the results - and the rewards! - that we can all enjoy.
+Be Humble. Be Human. – Respect and authenticity allow us to build meaningful and lasting relationships.
+Have Fun! – Positivity, perseverance, and a bit of laughter all allow us to make an impact while enjoying the rollercoaster!
+
+Your MIssion
+
+Hunt and secure our largest partnerships. Reporting to the VP of Sales, the Enterprise Account Executive will drive new revenue by optimizing our sales funnel using outbound strategies and tactics while also capturing qualified inbounds.
+
+Winning today started this morning as you directly engage with prospects to position Prokeep as their go to communication platform. Land and Expand is not a dirty word, it is a path to success we know well!
+
+You know you are only as successful as the people around you, so you work hard to build a collaborative and high performing pipeline. To increase your success now and in the future, you will work closely with marketing and sales leaders to dive in with what we know works, PLUS run your own experiments because what works today, could always be improved tomorrow.
+
+Primary Responsibilities
+
+The focus will be on hunting and acquiring our largest partnerships by building and managing a list of target accounts, starting conversations, navigating organizations, scoping projects, negotiating and securing commitments, and helping our Product Team prioritize these will take us to the next level, together!
+
+Build and manage a territory plan for our largest partnership opportunities
+Navigate the entire sales journey by introducing and demonstrating our value proposition, creating excitement and enthusiasm, and culminating with securing partnership
+Negotiate contracts and maximize product value
+Accurately forecast revenue and consistently hit quarterly targets by closing new business
+Build and execute professional services contracts to accelerate bringing new features to market
+Work with the Account Management Team to facilitate a seamless transition to the post sales process
+Travel to conferences and conduct prospect visits
+Collaborate with Operations, Customer Success, Support teams to maintain a seamless client experience
+Maintain a dialogue with the Product team to keep Prokeep’s product offering competitive
+Travel requirement 25%
+
+Qualifications (About You)
+
+Required: 3+ years in a quota carrying role with proven success selling SaaS products to Large Enterprise Organizations
+Experience selling and navigating multiple stakeholders at all levels of the organization, including Operations, IT, Sales, VP, and the C-suite.
+You are Stubborn and Tactfully Aggressive. In a healthy productive startup way!
+Insatiable hunger to deliver value to customers and internally within our organization
+Nice to have 1+ years experience with SaaS tech startups, rapidly scaling revenue while managing the resource constraints of a startup environment
+Ability to learn new technologies quickly; ideally familiar with SaaS application requirements.
+Expert level pipeline management with a commitment to process and data
+Superior communications skills (presentation, written, and verbal) and demonstrated ability to communicate/present effectively
+Proven ability to work well under pressure in a fast paced environment
+Creative thinker with the ability to troubleshoot issues quickly and effectively
+
+Why Prokeep?
+
+At Prokeep, we offer a dynamic, passionate, and collaborative work environment where innovation thrives. Here’s what you can expect:
+Competitive Compensation:Reflecting your expertise and impact.
+Equity Package: Your success is our success—share in the growth you’ll help create.
+Comprehensive Benefits: Health, dental, vision, life, short & long-term disability, 401(k), and employee assistance program (EAP).
+Flexible PTO: Recharge and refocus with the flexibility to manage your time with no preset limits
+Continuous Growth: Yearly education stipend to support your professional development.","关于我们
+
+Prokeep 是一家致力于赋能分销商的订单引擎，我们的使命是将每一次客户互动转化为订单机会。
+Prokeep 赢得了 8,000 多家分销商网点和 40,000 多名用户的信任，让超过 300 万名承包商、技术人员、水管工、电工、机械师和其他专业技能人士能够轻松订购零件、排除故障，并快速获取所需物资以继续开展工作。
+Prokeep 专为价值 1000 多亿美元的分销市场而打造，消除了因电话繁忙、客户数据分散和被动销售习惯而导致的错失机会。通过集中沟通并实现主动外联，我们帮助团队从任何渠道获取更多订单，并通过驱动需求获取更多订单——从而推动整个供应链的增长、加强关系并产生更大的影响力。
+我们最近获得了 2500 万美元的 A 轮投资，正处于快速增长和创新的阶段。如果您热衷于在协作、快速迭代的环境中应对复杂挑战，同时为一个经常被忽视但至关重要的经济领域做出贡献，我们非常欢迎您的加入。
+让我们共同塑造未来——一次一个订单！
+
+Prokeep 价值观
+
+共同建设。 – 协作、同志情谊和以客户为中心是我们集体工作和获胜的核心。
+使命必达。 – 执着和个人成长驱动着我们共同享有的成果和回报！
+保持谦逊，保持人性化。 – 尊重和真实让我们建立有意义且持久的关系。
+乐在其中！ – 积极、毅力和一点笑声让我们在享受起伏的过程中心产生影响力！
+
+您的使命
+
+发掘并锁定我们最大的合作伙伴关系。大客户销售经理向销售副总裁汇报，将通过利用出向策略和战术优化销售漏斗，同时捕捉合格的进向机会，来推动新收入的增长。
+
+今天的胜利始于今天早上，您直接与潜在客户接触，将 Prokeep 定位为他们的首选通信平台。“先入后扩”不是一个贬义词，它是我们非常熟悉的成功之路！
+
+您知道只有身边的人成功，您才会成功，因此您努力建立一个协作且高效的渠道。为了提高您现在和未来的成功率，您将与营销和销售领导密切合作，深入研究我们已知的有效方案，并进行自己的实验，因为今天有效的方案，明天总有改进的空间。
+
+主要职责
+
+核心重点是通过建立和管理目标客户名单、发起对话、在组织中斡旋、确定项目范围、谈判并获取承诺来寻找和获得我们最大的合作伙伴，并帮助我们的产品团队优先处理这些事项，共同将公司推向新的高度！
+
+· 为我们最大的合作伙伴机会制定并管理领地计划
+· 通过介绍和演示我们的价值主张、激发热情，并最终达成合作伙伴关系，引导整个销售流程
+· 谈判合同并最大化产品价值
+· 通过关闭新业务，准确预测收入并持续达成季度目标
+· 建立并执行专业服务合同，以加速新功能推向市场
+· 与客户管理团队合作，促进向售后流程的无缝过渡
+· 参加会议并进行潜在客户拜访
+· 与运营、客户成功、支持团队协作，维持无缝的客户体验
+· 与产品团队保持对话，确保 Prokeep 的产品方案保持竞争力
+· 出差要求 25%
+
+任职资格（关于您）
+
+· 要求：3 年以上带指标的职位经验，在向大型企业组织销售 SaaS 产品方面有成功记录
+· 具有在组织各层级（包括运营、IT、销售、副总裁和 C-level）销售和引导多方利益相关者的经验。
+· 您性格固执且具有策略性的进取心。以一种健康、高效的初创公司方式！
+· 对向客户和组织内部交付价值有着极度的渴望
+· 加分项：1 年以上 SaaS 技术初创公司经验，在管理初创环境资源限制的同时实现收入快速扩张
+· 能快速学习新技术；理想情况下熟悉 SaaS 应用程序要求。
+· 专家级的漏斗管理能力，致力于流程和数据
+· 卓越的沟通技巧（演讲、书面和口头）以及有效的沟通/演讲能力
+· 在快节奏环境下承受压力的能力
+· 具有快速有效地解决问题的创造性思维
+
+为什么选择 Prokeep？
+
+在 Prokeep，我们提供一个充满活力、激情和协作的工作环境。您可以期待：
+· 竞争力的薪酬：反映您的专业知识和影响力。
+· 股权包：您的成功就是我们的成功——分享您协助创造的增长。
+· 全面的福利：医疗、牙科、视觉、人寿、短期和长期伤残保险、401(k) 以及员工援助计划 (EAP)。
+· 弹性 PTO：通过灵活管理时间（无预设限制）来充电和重新聚焦
+· 持续成长：每年的教育津贴以支持您的职业发展。","About Us
+
+Prokeep is an Order Engine on a mission to empower distributors to win by turning every customer interaction into an order opportunity.
+Trusted by 8,000+ distributor locations and 40,000+ users, Prokeep makes it easy for over 3 million contractors, technicians, plumbers, electricians, mechanics, and other skilled professionals to order parts, troubleshoot issues, and generally, get what they need and get on with their day.
+Built for the $100+ billion distribution market, Prokeep eliminates missed opportunities caused by busy phone lines, scattered customer data, and passive sales habits. By centralizing communication and enabling proactive outreach, we help teams take more orders from any channel and get more orders by driving demand—fueling growth, stronger relationships, and greater impact across the supply chain.
+Having recently secured a $25M Series A investment, we’re poised for rapid growth and innovation. If you're passionate about tackling complex challenges in a collaborative, fast-paced environment while contributing to an often-overlooked yet vital sector of the economy, we’d love to have you on board.
+Let’s shape the future together—one order at a time!
+
+Prokeep Values
+
+Build Together. – Collaboration, camaraderie, and customer-focus are core to how we collectively work and win.
+Own It. – Persistence and personal growth drive the results - and the rewards! - that we can all enjoy.
+Be Humble. Be Human. – Respect and authenticity allow us to build meaningful and lasting relationships.
+Have Fun! – Positivity, perseverance, and a bit of laughter all allow us to make an impact while enjoying the rollercoaster!
+
+Your Mission
+
+Hunt and secure our largest partnerships. Reporting to the VP of Sales, the Enterprise Account Executive will drive new revenue by optimizing our sales funnel using outbound strategies and tactics while also capturing qualified inbounds.
+
+Winning today started this morning as you directly engage with prospects to position Prokeep as their go to communication platform. Land and Expand is not a dirty word, it is a path to success we know well!
+
+You know you are only as successful as the people around you, so you work hard to build a collaborative and high performing pipeline. To increase your success now and in the future, you will work closely with marketing and sales leaders to dive in with what we know works, PLUS run your own experiments because what works today, could always be improved tomorrow.
+
+Primary Responsibilities
+
+The focus will be on hunting and acquiring our largest partnerships by building and managing a list of target accounts, starting conversations, navigating organizations, scoping projects, negotiating and securing commitments, and helping our Product Team prioritize these will take us to the next level, together!
+
+· Build and manage a territory plan for our largest partnership opportunities
+· Navigate the entire sales journey by introducing and demonstrating our value proposition, creating excitement and enthusiasm, and culminating with securing partnership
+· Negotiate contracts and maximize product value
+· Accurately forecast revenue and consistently hit quarterly targets by closing new business
+· Build and execute professional services contracts to accelerate bringing new features to market
+· Work with the Account Management Team to facilitate a seamless transition to the post sales process
+· Travel to conferences and conduct prospect visits
+· Collaborate with Operations, Customer Success, Support teams to maintain a seamless client experience
+· Maintain a dialogue with the Product team to keep Prokeep’s product offering competitive
+· Travel requirement 25%
+
+Qualifications (About You)
+
+· Required: 3+ years in a quota carrying role with proven success selling SaaS products to Large Enterprise Organizations
+· Experience selling and navigating multiple stakeholders at all levels of the organization, including Operations, IT, Sales, VP, and the C-suite.
+· You are Stubborn and Tactfully Aggressive. In a healthy productive startup way!
+· Insatiable hunger to deliver value to customers and internally within our organization
+· Nice to have: 1+ years experience with SaaS tech startups, rapidly scaling revenue while managing the resource constraints of a startup environment
+· Ability to learn new technologies quickly; ideally familiar with SaaS application requirements.
+· Expert level pipeline management with a commitment to process and data
+· Superior communications skills (presentation, written, and verbal) and demonstrated ability to communicate/present effectively
+· Proven ability to work well under pressure in a fast paced environment
+· Creative thinker with the ability to troubleshoot issues quickly and effectively
+
+Why Prokeep?
+
+At Prokeep, we offer a dynamic, passionate, and collaborative work environment where innovation thrives. Here’s what you can expect:
+· Competitive Compensation: Reflecting your expertise and impact.
+· Equity Package: Your success is our success—share in the growth you’ll help create.
+· Comprehensive Benefits: Health, dental, vision, life, short & long-term disability, 401(k), and employee assistance program (EAP).
+· Flexible PTO: Recharge and refocus with the flexibility to manage your time with no preset limits
+· Continuous Growth: Yearly education stipend to support your professional development.",,3+ years,1
+1ec0f4babc4cbac941dfa1438d4640fe,Crypto/Web3 Account Executive Manager/ Sales,Web3 大客户经理 / 销售,Web3 Account Executive Manager / Sales,Web3Firewall,"Web3风险合规商务,区块链行业,熟悉AML/KYC流程,DeFi及数字资产评估,5年以上相关经验,期权激励","Web3风险合规商务,区块链行业,熟悉AML/KYC流程,DeFi及数字资产评估,5年以上相关经验,期权激励","Web3 Risk & Compliance BD,Blockchain Industry,Familiar with AML/KYC,DeFi & Digital Asset Assessment,5+ Years Relevant Experience,Equity Options",168-180K,168-180K,2026-01-08,Wellfound,Wellfound,https://wellfound.com/jobs/3093142-crypto-web3-account-executive-manager-sales,国外,"Must have professional digital assets/ web3 experience!
+
+The Web3 Risk Business Development and Account Manager will play a critical role in expanding the company’s footprint in the Web3 risk and compliance landscape. This position will focus on identifying new business opportunities, nurturing client relationships, and providing risk management solutions tailored to the Web3 ecosystem. The role requires a deep understanding of blockchain technology, decentralized finance (DeFi), and regulatory requirements, as well as the ability to manage and grow a client portfolio while mitigating risks associated with Web3 technologies.
+
+Key Responsibilities:
+
+Identify, prospect, and engage with potential clients, including crypto exchanges, DeFi platforms, NFT projects, and Web3 enterprises.
+Develop and execute go-to-market strategies to grow the company’s Web3 risk management solutions.
+Collaborate with internal teams (product, legal, marketing) to shape the company's offerings, aligning with market demand and regulatory requirements.
+Build strategic partnerships and alliances with key players in the blockchain ecosystem.
+Stay up-to-date with industry trends, market movements, and regulatory changes that impact risk management in Web3.
+
+Account Management:
+
+Manage a portfolio of high-value clients, ensuring strong relationships, customer satisfaction, and retention.
+Serve as the primary point of contact for clients regarding Web3 risk management solutions, compliance, and regulatory services.
+Provide tailored risk assessments and advisory services to clients, helping them navigate the complexities of the Web3 landscape, including AML (Anti-Money Laundering), KYC (Know Your Customer), and sanctions compliance.
+Work with clients to proactively identify potential risks and create mitigation strategies, including smart contract audits, security evaluations, and regulatory compliance monitoring.
+Ensure clients are leveraging the company’s solutions to optimize performance, reduce risk, and stay compliant with international laws.
+
+Risk and Compliance Strategy:
+
+Collaborate with the legal and compliance teams to develop comprehensive risk management frameworks for Web3 clients.
+Assist in the design and implementation of risk mitigation strategies, including financial risk modeling, security protocols, and market volatility management.
+Provide industry insights and feedback to the product team to enhance existing risk management tools and develop new services.
+Educate clients and partners on best practices for security, fraud prevention, and compliance within the Web3 ecosystem.
+
+Performance Tracking and Reporting:
+
+Set clear performance metrics for business growth and account success, and provide regular reports to leadership on sales pipeline, client satisfaction, and risk-related concerns.
+Track market trends, competitive landscape, and client feedback to adjust sales strategies and drive continuous improvement.
+
+Qualifications:
+
+Education: Bachelor’s degree in Business, Finance, Economics, Risk Management, or a related field. Advanced degrees or certifications in blockchain, risk management, or compliance are a plus.
+
+Experience:
+
+5+ years of experience in business development, account management, or risk management in the Web3, blockchain, or fintech sectors.
+Proven track record of managing high-value client relationships and developing business within a technical or highly regulated industry.
+Experience with risk assessment, compliance, and regulatory standards related to blockchain, cryptocurrency, and decentralized finance (DeFi).
+
+Skills:
+
+Deep understanding of blockchain technology, decentralized finance (DeFi), and Web3 infrastructure.
+Strong knowledge of regulatory requirements (e.g., AML, KYC, OFAC sanctions) and how they apply to Web3 projects.
+Excellent communication, negotiation, and presentation skills.
+Ability to manage multiple client accounts and a sales pipeline effectively.
+Analytical and strategic mindset, with the ability to identify and solve complex problems.
+Familiarity with Web3 risk management tools such as blockchain explorers, smart contract auditing platforms, and compliance software.
+
+Personal Attributes:
+
+Entrepreneurial mindset with the ability to work independently and within a team.
+Strong interpersonal skills and the ability to build lasting relationships with clients and partners.
+A passion for blockchain, cryptocurrency, and Web3 technology.
+
+Compensation:
+
+Competitive salary with performance-based bonuses.
+Equity options in a fast-growing Web3 risk management firm.","必须具备专业的数字资产/ Web3 经验！
+
+Web3 风险业务发展与客户经理将在扩展公司在 Web3 风险和合规领域的足迹方面发挥关键作用。该职位将专注于识别新的业务机会、培养客户关系，并提供量身定制的 Web3 生态系统风险管理解决方案。此职位要求深入了解区块链技术、去中心化金融 (DeFi) 和监管要求，并具备在降低 Web3 技术相关风险的同时管理和增长客户组合的能力。
+
+主要职责：
+
+识别、挖掘并接触潜在客户，包括加密货币交易所、DeFi 平台、NFT 项目和 Web3 企业。
+制定并执行进入市场策略，以推广公司的 Web3 风险管理解决方案。
+与内部团队（产品、法律、市场）合作，根据市场需求和监管要求优化公司的产品方案。
+与区块链生态系统中的关键参与者建立战略合作伙伴关系和联盟。
+紧跟行业趋势、市场动态以及影响 Web3 风险管理的监管变化。
+
+客户管理：
+
+管理高价值客户组合，确保建立稳固的关系、提升客户满意度并实现客户留存。
+担任客户关于 Web3 风险管理解决方案、合规和监管服务的首要联系人。
+为客户提供量身定制的风险评估和咨询服务，帮助他们应对复杂的 Web3 环境，包括 AML（反洗钱）、KYC（了解您的客户）和制裁合规。
+与客户合作，主动识别潜在风险并制定缓解策略，包括智能合约审计、安全评估和合规监控。
+确保客户能够有效利用公司的解决方案来优化绩效、降低风险并遵守国际法律。
+
+风险与合规策略：
+
+与法律和合规团队合作，为 Web3 客户开发全面的风险管理框架。
+协助设计和实施风险缓解策略，包括财务风险建模、安全协议和市场波动管理。
+向产品团队提供行业洞察和反馈，以增强现有的风险管理工具并开发新服务。
+向客户和合作伙伴宣传 Web3 生态系统内的安全、欺诈预防和合规的最佳实践。
+
+绩效追踪与报告：
+
+为业务增长和客户成功设定明确的绩效指标，并定期向领导层汇报销售管道、客户满意度和风险相关问题。
+追踪市场趋势、竞争格局和客户反馈，以调整销售策略并推动持续改进。
+
+任职资格：
+
+教育背景：商业、金融、经济、风险管理或相关领域的学士学位。拥有区块链、风险管理或合规方面的进阶学位或证书者优先。
+
+经验要求：
+
+5 年以上在 Web3、区块链或金融科技领域的业务发展、客户管理或风险管理经验。
+在技术或高度受监管的行业中具有管理高价值客户关系和拓展业务的成功记录。
+具备与区块链、加密货币和去中心化金融 (DeFi) 相关的风险评估、合规和监管标准的经验。
+
+专业技能：
+
+深入了解区块链技术、去中心化金融 (DeFi) 和 Web3 基础设施。
+熟练掌握监管要求（如 AML、KYC、OFAC 制裁）及其在 Web3 项目中的应用。
+出色的沟通、谈判和演讲能力。
+能够有效管理多个客户账户和销售管道。
+具备分析和战略思维，能够识别并解决复杂问题。
+熟悉 Web3 风险管理工具，如区块链浏览器、智能合约审计平台和合规软件。
+
+个人素质：
+
+具有创业精神，能够独立工作并在团队中协作。
+强大的人际交往能力，能够与客户和合作伙伴建立持久的关系。
+对区块链、加密货币和 Web3 技术充满热情。
+
+薪酬福利：
+
+具有竞争力的薪资及基于绩效的奖金。
+快速发展的 Web3 风险管理公司的股票期权。","Must have professional digital assets/ web3 experience!
+
+The Web3 Risk Business Development and Account Manager will play a critical role in expanding the company’s footprint in the Web3 risk and compliance landscape. This position will focus on identifying new business opportunities, nurturing client relationships, and providing risk management solutions tailored to the Web3 ecosystem. The role requires a deep understanding of blockchain technology, decentralized finance (DeFi), and regulatory requirements, as well as the ability to manage and grow a client portfolio while mitigating risks associated with Web3 technologies.
+
+Key Responsibilities:
+
+Identify, prospect, and engage with potential clients, including crypto exchanges, DeFi platforms, NFT projects, and Web3 enterprises.
+Develop and execute go-to-market strategies to grow the company’s Web3 risk management solutions.
+Collaborate with internal teams (product, legal, marketing) to shape the company's offerings, aligning with market demand and regulatory requirements.
+Build strategic partnerships and alliances with key players in the blockchain ecosystem.
+Stay up-to-date with industry trends, market movements, and regulatory changes that impact risk management in Web3.
+
+Account Management:
+
+Manage a portfolio of high-value clients, ensuring strong relationships, customer satisfaction, and retention.
+Serve as the primary point of contact for clients regarding Web3 risk management solutions, compliance, and regulatory services.
+Provide tailored risk assessments and advisory services to clients, helping them navigate the complexities of the Web3 landscape, including AML (Anti-Money Laundering), KYC (Know Your Customer), and sanctions compliance.
+Work with clients to proactively identify potential risks and create mitigation strategies, including smart contract audits, security evaluations, and regulatory compliance monitoring.
+Ensure clients are leveraging the company’s solutions to optimize performance, reduce risk, and stay compliant with international laws.
+
+Risk and Compliance Strategy:
+
+Collaborate with the legal and compliance teams to develop comprehensive risk management frameworks for Web3 clients.
+Assist in the design and implementation of risk mitigation strategies, including financial risk modeling, security protocols, and market volatility management.
+Provide industry insights and feedback to the product team to enhance existing risk management tools and develop new services.
+Educate clients and partners on best practices for security, fraud prevention, and compliance within the Web3 ecosystem.
+
+Performance Tracking and Reporting:
+
+Set clear performance metrics for business growth and account success, and provide regular reports to leadership on sales pipeline, client satisfaction, and risk-related concerns.
+Track market trends, competitive landscape, and client feedback to adjust sales strategies and drive continuous improvement.
+
+Qualifications:
+
+Education: Bachelor’s degree in Business, Finance, Economics, Risk Management, or a related field. Advanced degrees or certifications in blockchain, risk management, or compliance are a plus.
+
+Experience:
+
+5+ years of experience in business development, account management, or risk management in the Web3, blockchain, or fintech sectors.
+Proven track record of managing high-value client relationships and developing business within a technical or highly regulated industry.
+Experience with risk assessment, compliance, and regulatory standards related to blockchain, cryptocurrency, and decentralized finance (DeFi).
+
+Skills:
+
+Deep understanding of blockchain technology, decentralized finance (DeFi), and Web3 infrastructure.
+Strong knowledge of regulatory requirements (e.g., AML, KYC, OFAC sanctions) and how they apply to Web3 projects.
+Excellent communication, negotiation, and presentation skills.
+Ability to manage multiple client accounts and a sales pipeline effectively.
+Analytical and strategic mindset, with the ability to identify and solve complex problems.
+Familiarity with Web3 risk management tools such as blockchain explorers, smart contract auditing platforms, and compliance software.
+
+Personal Attributes:
+
+Entrepreneurial mindset with the ability to work independently and within a team.
+Strong interpersonal skills and the ability to build lasting relationships with clients and partners.
+A passion for blockchain, cryptocurrency, and Web3 technology.
+
+Compensation:
+
+Competitive salary with performance-based bonuses.
+Equity options in a fast-growing Web3 risk management firm.",San Francisco,5+ years,1
+2cc4aec1c34d566a00ff2ab5530e0871,Frontend Developer,前端开发工程师,Frontend Developer,Avochato,"React 架构与开发,AI 消息通讯,React+TypeScript,状态管理与前端测试,美企,WebSockets 实时应用","React 架构与开发,AI 消息通讯,React+TypeScript,状态管理与前端测试,美企,WebSockets 实时应用","React Architecture & Development,AI Messaging & Communication,React+TypeScript,State Management & Frontend Testing,US Company,WebSockets Real-time Apps",90K,90K,2026-01-08,Wellfound,Wellfound,https://wellfound.com/jobs/3718309-frontend-developer,国外,"Company Description
+
+Avochato is an AI-based messaging platform designed to help businesses improve customer communication through a unified inbox supporting SMS, MMS, RCS, Live Chat, and Voice. Over the past decade, Avochato has grown into a reliable and profitable platform that powers customer interactions and generates revenue for organizations of all sizes. With a commitment to solving high-impact problems and delivering seamless products across desktop and mobile, Avochato ensures businesses can communicate with their customers in the most rewarding ways. Avochato is a team of builders who care deeply about product quality, customer satisfaction, and moving fast without breaking trust. It’s easy to launch something, but it’s much harder to make it last. That’s the work team Avochato enjoys and the mindset that unifies the entire team.
+
+Role Description
+
+This is a full-time remote role for a Frontend Developer located in the United States. As a React/TypeScript specialist, this role also serves as a technical resource for frontend best practices, code review standards, and team mentorship.
+
+The Frontend Developer will be responsible for designing, building, and improving user interfaces that enhance the customer experience. Key responsibilities include collaborating in cross-functional project teams, maintaining responsive web designs, debugging issues, ensuring high performance of web applications, and staying up-to-date with industry trends and technologies.
+
+Qualifications
+
+4+ years of professional experience with React with production TypeScript usage
+Strong experience with React state management (Redux, Zustand, or similar)
+Strong experience writing frontend tests (Jest, Vitest, Testing Library, or similar)
+Experience with WebSockets
+Familiarity with build tooling (Webpack, Vite)
+Experience working with RESTful APIs and async data patterns
+Experience in a Rails-backed environment is a plus
+Experience using AWS services (S3, CloudFront) and web accessibility standards (WCAG) are a plus","公司简介
+
+Avochato 是一个基于 AI 的消息平台，旨在通过支持 SMS、MMS、RCS、实时聊天和语音的统一收件箱，帮助企业改善客户沟通。在过去的十年里，Avochato 已成长为一个可靠且盈利的平台，为各种规模的组织提供客户互动动力并创造收入。Avochato 致力于解决高影响力的难题，并在桌面端和移动端提供无缝的产品体验，确保企业能够以最有价值的方式与客户沟通。Avochato 拥有一支深耕产品的建设者团队，我们非常关注产品质量、客户满意度，并在保证信任的前提下快速迭代。发布一个产品很容易，但让它经久不衰却难得多。这就是 Avochato 团队热爱的工作，也是凝聚整个团队的理念。
+
+岗位描述
+
+这是一个全职远程职位，面向位于美国的候选人。作为 React/TypeScript 专家，此岗位还将作为前端最佳实践、代码审查标准和团队指导的技术资源。
+
+前端开发工程师将负责设计、构建和改进用户界面，以提升客户体验。主要职责包括在跨职能项目团队中协作、维护响应式网页设计、调试问题、确保 Web 应用程序的高性能，并紧跟行业趋势和技术。
+
+职位要求
+
+4 年以上 React 专业经验，并具有生产环境中的 TypeScript 使用经验
+在 React 状态管理（Redux、Zustand 或类似工具）方面有丰富经验
+在编写前端测试（Jest、Vitest、Testing Library 或类似工具）方面有丰富经验
+具有 WebSockets 经验
+熟悉构建工具（Webpack、Vite）
+具有使用 RESTful API 和异步数据模式的经验
+具有 Rails 后端环境工作经验者优先
+具有使用 AWS 服务（S3、CloudFront）和 Web 可访问性标准 (WCAG) 的经验者优先","Company Description
+
+Avochato is an AI-based messaging platform designed to help businesses improve customer communication through a unified inbox supporting SMS, MMS, RCS, Live Chat, and Voice. Over the past decade, Avochato has grown into a reliable and profitable platform that powers customer interactions and generates revenue for organizations of all sizes. With a commitment to solving high-impact problems and delivering seamless products across desktop and mobile, Avochato ensures businesses can communicate with their customers in the most rewarding ways. Avochato is a team of builders who care deeply about product quality, customer satisfaction, and moving fast without breaking trust. It’s easy to launch something, but it’s much harder to make it last. That’s the work team Avochato enjoys and the mindset that unifies the entire team.
+
+Role Description
+
+This is a full-time remote role for a Frontend Developer located in the United States. As a React/TypeScript specialist, this role also serves as a technical resource for frontend best practices, code review standards, and team mentorship.
+
+The Frontend Developer will be responsible for designing, building, and improving user interfaces that enhance the customer experience. Key responsibilities include collaborating in cross-functional project teams, maintaining responsive web designs, debugging issues, ensuring high performance of web applications, and staying up-to-date with industry trends and technologies.
+
+Qualifications
+
+4+ years of professional experience with React with production TypeScript usage
+Strong experience with React state management (Redux, Zustand, or similar)
+Strong experience writing frontend tests (Jest, Vitest, Testing Library, or similar)
+Experience with WebSockets
+Familiarity with build tooling (Webpack, Vite)
+Experience working with RESTful APIs and async data patterns
+Experience in a Rails-backed environment is a plus
+Experience using AWS services (S3, CloudFront) and web accessibility standards (WCAG) are a plus",,5+ years,1
+336b5563d139cb028f7a044853517621,"Staff Software Engineer (SDK), Cloud Platform",云平台主任软件工程师 (SDK),"Staff Software Engineer (SDK), Cloud Platform",IonQ,"量子计算SDK设计,量子计算,Python/C++/Rust,Qiskit/Cirq集成,美企,股票期权","量子计算SDK设计,量子计算,Python/C++/Rust,Qiskit/Cirq集成,美企,股票期权","Quantum SDK Design,Quantum Computing,Python/C++/Rust,Qiskit/Cirq Integration,US Company,Equity Options",97-140K,97-140K,2026-01-06,Wellfound,Wellfound,https://wellfound.com/jobs/3351553-staff-software-engineer-sdk-cloud-platform,国外,"We don’t just build the world’s best quantum computers–we want them to be usable by everyone, everywhere. We are looking for a Staff Software Engineer to join a cross-functional team building the IonQ Cloud Platform, which connects our customers to our quantum computers via APIs, SDKs, tools, and partner clouds like AWS, GCP, and Azure. You’ll lead development of our quantum software development kits like Qiskit, Cirq, and more, in collaboration with our product team, applications team, systems team, and scientists to build the best quantum developer experience for our customers and partners.
+
+Responsibilities :
+
+Reporting to the Senior Manager of Cloud Engineering, this role involves close collaboration with Product and Application teams to ensure the development of high-quality, user-friendly, and comprehensively documented SDKs that fulfill specified requirements.
+Lead the design, development, and maintenance of robust, high-quality SDK features capabilities enabling quantum novices and experts alike to solve real-world problems with quantum computers
+Mentor senior and junior engineers on the team
+Participate in on-call rotations
+
+You’d be a good fit with:
+
+Bachelor's degree in Computer Science, Engineering or a related field, or equivalent training, fellowship, or work experience
+8+ years of professional experience in software engineering, working in a team environment.
+5+ years of experience in leading the design, development, and maintenance of robust, high-quality SDKs
+Proficiency in Python
+Experience in mentoring and guiding engineers of all levels to ensure a high bar for code quality and performance
+Experience in driving the team's long-term vision and architecture, shaping roadmaps, and providing technical leadership
+Experience in collaborating with product and other engineering teams to ensure alignment and effective communication.
+Experience in identifying and solving complex technical challenges related to SDK development, performance, and integration
+Demonstrated experience in prioritizing user-friendliness and seamless integration of SDKs for developer adoption
+Demonstrated ability to remain current with industry trends, upstream software modifications, and advancements within the SDK ecosystem
+Experience in creating and maintaining clear and comprehensive documentation
+
+You’d be a great fit with:
+
+10+ years of professional software experience
+7+ years in leading the design, development, and maintenance of robust, high-quality SDKs
+Experience with system-level programming languages like C++ or Rust
+Proficiency in quantum computing SDKs (Qiskit, Pennylane, CirQ)
+Some experience with quantum computing or quantum physics
+
+Location: This position can work onsite or hybrid from one of our offices (College Park, MD, Bothell, WA) or fully remote in the US.
+
+Travel: About once per quarter
+
+Job ID: 1105
+
+The approximate base salary range for this position is $162,920 - $213,304. The total compensation package includes base, bonus, and equity.","我们不仅致力于制造世界上最好的量子计算机，还希望每个人、每个地方都能使用它们。我们正在寻找一名主任软件工程师加入 IonQ 云平台跨职能团队，该平台通过 API、SDK、工具以及 AWS、GCP 和 Azure 等合作伙伴云，将我们的客户与我们的量子计算机连接起来。你将与我们的产品团队、应用团队、系统团队和科学家协作，领导 Qiskit、Cirq 等量子软件开发工具包的开发，为我们的客户和合作伙伴打造最佳的量子开发体验。
+
+职责：
+
+向云工程高级经理汇报，此职位涉及与产品和应用团队密切协作，以确保开发出符合特定要求、高质量、用户友好且文档完善的 SDK。
+领导强大、高质量 SDK 功能的设计、开发和维护，使量子领域的新手和专家都能利用量子计算机解决现实世界的问题
+指导团队中的高级和初级工程师
+参与轮值值班
+
+如果你符合以下条件，将非常适合：
+
+计算机科学、工程或相关领域的学士学位，或同等的培训、奖学金或工作经验
+8 年以上团队环境下的专业软件工程经验。
+5 年以上领导强大、高质量 SDK 设计、开发和维护的经验
+精通 Python
+具备指导和引导各级工程师的经验，确保代码质量和性能的高标准
+具备推动团队长期愿景和架构、制定路线图并提供技术领导的经验
+具备与产品和其他工程团队协作以确保一致性和有效沟通的经验
+具备识别和解决与 SDK 开发、性能和集成相关的复杂技术挑战的经验
+证明在优先考虑用户友好性和 SDK 无缝集成以促进开发者采用方面的经验
+证明有能力紧跟行业趋势、上游软件修改和 SDK 生态系统内的进展
+具备创建和维护清晰且全面的文档的经验
+
+如果你符合以下条件，将更加理想：
+
+10 年以上专业软件经验
+7 年以上领导强大、高质量 SDK 设计、开发和维护的经验
+具备 C++ 或 Rust 等系统级编程语言的经验
+精通量子计算 SDK (Qiskit, Pennylane, CirQ)
+具备一定的量子计算或量子物理经验
+
+工作地点：此职位可以实地办公、在我们的办公室（马里兰州大学公园市；华盛顿州博塞尔市）混合办公，或在美国完全远程办公。
+
+出差：大约每季度一次
+
+职位 ID：1105
+
+此职位的近似基本工资范围为 162,920 美元 - 213,304 美元。总薪酬包包括基本工资、奖金和股权。","We don’t just build the world’s best quantum computers–we want them to be usable by everyone, everywhere. We are looking for a Staff Software Engineer to join a cross-functional team building the IonQ Cloud Platform, which connects our customers to our quantum computers via APIs, SDKs, tools, and partner clouds like AWS, GCP, and Azure. You’ll lead development of our quantum software development kits like Qiskit, Cirq, and more, in collaboration with our product team, applications team, systems team, and scientists to build the best quantum developer experience for our customers and partners.
+
+Responsibilities :
+
+Reporting to the Senior Manager of Cloud Engineering, this role involves close collaboration with Product and Application teams to ensure the development of high-quality, user-friendly, and comprehensively documented SDKs that fulfill specified requirements.
+Lead the design, development, and maintenance of robust, high-quality SDK features capabilities enabling quantum novices and experts alike to solve real-world problems with quantum computers
+Mentor senior and junior engineers on the team
+Participate in on-call rotations
+
+You’d be a good fit with:
+
+Bachelor's degree in Computer Science, Engineering or a related field, or equivalent training, fellowship, or work experience
+8+ years of professional experience in software engineering, working in a team environment.
+5+ years of experience in leading the design, development, and maintenance of robust, high-quality SDKs
+Proficiency in Python
+Experience in mentoring and guiding engineers of all levels to ensure a high bar for code quality and performance
+Experience in driving the team's long-term vision and architecture, shaping roadmaps, and providing technical leadership
+Experience in collaborating with product and other engineering teams to ensure alignment and effective communication.
+Experience in identifying and solving complex technical challenges related to SDK development, performance, and integration
+Demonstrated experience in prioritizing user-friendliness and seamless integration of SDKs for developer adoption
+Demonstrated ability to remain current with industry trends, upstream software modifications, and advancements within the SDK ecosystem
+Experience in creating and maintaining clear and comprehensive documentation
+
+You’d be a great fit with:
+
+10+ years of professional software experience
+7+ years in leading the design, development, and maintenance of robust, high-quality SDKs
+Experience with system-level programming languages like C++ or Rust
+Proficiency in quantum computing SDKs (Qiskit, Pennylane, CirQ)
+Some experience with quantum computing or quantum physics
+
+Location: This position can work onsite or hybrid from one of our offices (College Park, MD, Bothell, WA) or fully remote in the US.
+
+Travel: About once per quarter
+
+Job ID: 1105
+
+The approximate base salary range for this position is $162,920 - $213,304. The total compensation package includes base, bonus, and equity.",Seattle • College Park,7+ years,1
+53fffe44b89bab5ff861557e3cedd0fa,"Senior Product Designer and UX Researcher (Remote, 4-day week)",高级产品设计师与UX研究员,Senior Product Designer and UX Researcher,Stack Influence,"端到端产品设计,电商创作者市场,UX研究与策略驱动,Figma设计系统,美企,四天工作制,期权激励","端到端产品设计,电商创作者市场,UX研究与策略驱动,Figma设计系统,美企,四天工作制,期权激励","End-to-End Product Design,E-commerce Creator Marketplace,UX Research & Strategy,Figma Design Systems,US-based Startup,4-day Work Week,Equity Potential",72-108K,72-108K,2026-01-06,Wellfound,Wellfound,https://wellfound.com/jobs/3695976-senior-product-designer-and-ux-researcher-remote-4-day-week,国外,"⚠️ ONLY APPLY THROUGH OUR APPLICATION FORM: https://stack-influence.breezy.hr/p/0dc7941cdd54/apply 👈
+
+Stack Influence is a VC-funded creator marketplace app connecting eCommerce brands with everyday social media users. We are a high-growth, remote-first startup that offers a flexible 4-day work week.
+
+You will own end-to-end product design while conducting research to understand user needs and drive product strategy.
+
+We're looking for a high-impact individual contributor who can be the sole lead designer. You’ll collaborate with product and engineering leadership to shape the product roadmap.
+
+Salary is between $120-180k USD with equity potential.
+
+Responsibilities:
+
+Design
+
+Own end-to-end product design: discovery → concept → execution → launch → iteration
+Create wireframes, prototypes and visual designs in Figma
+Build and evolve design systems (components, patterns, guidelines) for consistency and scale
+Collaborate with product and engineering to define requirements, not just translate them into design
+Design and source brand-aligned visual assets for Marketing (website pages, decks, graphics)
+
+Research
+
+Lead and execute end-to-end studies—including qualitative interviews, surveys, and usability testing—to create product strategy based on user needs.
+Collaborate with internal and external stakeholders to gather insight from various data sources
+Synthesize research into actionable insights and recommendations (decks, narratives, visualizations)
+
+Qualifications:
+
+5+ years of product design experience
+2+ years of UX research experience
+Expert-level Figma skills
+Portfolio demonstrating high-quality design (must include link in application)
+Ability to work independently and manage competing priorities","⚠️ 仅通过我们的申请表申请：https://stack-influence.breezy.hr/p/0dc7941cdd54/apply 👈
+
+Stack Influence 是一款获得风险投资支持的创作者市场应用，旨在连接电子商务品牌与日常社交媒体用户。我们是一家高速增长、远程优先的初创公司，提供灵活的每周 4 天工作制。
+
+你将负责端到端的产品设计，同时进行研究以了解用户需求并推动产品策略。
+
+我们正在寻找一位能够担任唯一首席设计师的高影响力个人贡献者。你将与产品和工程领导层合作，共同塑造产品路线图。
+
+薪资在 120,000 至 180,000 美元之间，并附带期权潜力。
+
+职责：
+
+设计
+
+负责端到端产品设计：探索 → 概念 → 执行 → 发布 → 迭代
+在 Figma 中创建线框图、原型和视觉设计
+构建并演进设计系统（组件、模式、指南），以确保一致性和扩展性
+与产品和工程部门合作定义需求，而不只是将其转化为设计
+为市场营销部门（网站页面、演示文稿、图形）设计并获取符合品牌形象的视觉资产
+
+研究
+
+领导并执行端到端的研究——包括定性访谈、调查和可用性测试——以根据用户需求制定产品策略。
+与内部和外部利益相关者合作，从各种数据源收集见解
+将研究结果合成为具有行动价值的见解和建议（演示文稿、叙述性报告、可视化图表）
+
+任职要求：
+
+5 年以上产品设计经验
+2 年以上 UX 研究经验
+专家级 Figma 技能
+展示高质量设计的作品集（申请中必须包含链接）
+能够独立工作并管理相互冲突的优先级事项","⚠️ ONLY APPLY THROUGH OUR APPLICATION FORM: https://stack-influence.breezy.hr/p/0dc7941cdd54/apply 👈
+
+Stack Influence is a VC-funded creator marketplace app connecting eCommerce brands with everyday social media users. We are a high-growth, remote-first startup that offers a flexible 4-day work week.
+
+You will own end-to-end product design while conducting research to understand user needs and drive product strategy.
+
+We're looking for a high-impact individual contributor who can be the sole lead designer. You’ll collaborate with product and engineering leadership to shape the product roadmap.
+
+Salary is between $120-180k USD with equity potential.
+
+Responsibilities:
+
+Design
+
+Own end-to-end product design: discovery → concept → execution → launch → iteration
+Create wireframes, prototypes and visual designs in Figma
+Build and evolve design systems (components, patterns, guidelines) for consistency and scale
+Collaborate with product and engineering to define requirements, not just translate them into design
+Design and source brand-aligned visual assets for Marketing (website pages, decks, graphics)
+
+Research
+
+Lead and execute end-to-end studies—including qualitative interviews, surveys, and usability testing—to create product strategy based on user needs.
+Collaborate with internal and external stakeholders to gather insight from various data sources
+Synthesize research into actionable insights and recommendations (decks, narratives, visualizations)
+
+Qualifications:
+
+5+ years of product design experience
+2+ years of UX research experience
+Expert-level Figma skills
+Portfolio demonstrating high-quality design (must include link in application)
+Ability to work independently and manage competing priorities",,5+ years,1

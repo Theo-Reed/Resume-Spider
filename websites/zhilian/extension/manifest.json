@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "智联招聘采集桥",
+  "version": "1.0",
+  "description": "提取智联招聘职位并发送到本地 Python 服务器",
+  "permissions": ["activeTab", "scripting", "storage"],
+  "host_permissions": ["*://*.zhaopin.com/*", "http://127.0.0.1:5001/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.zhaopin.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "action": {
+    "default_title": "智联招聘采集桥"
+  }
+}

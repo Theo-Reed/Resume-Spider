@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Wellfound Scraper Bridge",
+  "version": "1.0",
+  "description": "Extract Wellfound jobs and send to local Python server",
+  "permissions": ["activeTab", "scripting", "storage"],
+  "host_permissions": ["*://wellfound.com/*", "http://127.0.0.1:5002/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://wellfound.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "action": {
+    "default_title": "Wellfound Scraper"
+  }
+}
