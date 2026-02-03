@@ -1,0 +1,10 @@
+/.DS_Store
+/.cadence
+/.idea
+/.venv
+/__pycache__
+/ai_resume.py
+/csv_file
+/sync_chrome.py
+/util
+/websites
