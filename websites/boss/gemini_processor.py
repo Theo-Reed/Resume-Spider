@@ -7,12 +7,16 @@ import signal
 import traceback
 from typing import List, Dict, Any, Optional
 import google.generativeai as genai
+from dotenv import load_dotenv
 
 warnings.filterwarnings('ignore')
 
+# Load environment variables from .env file
+load_dotenv(os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), '.env'))
+
 GEMINI_TIMEOUT = 120
 
-GEMINI_API_KEY = "AIzaSyC-iCb05HZXEdtniblgTKsUPTJPQFVIzxI"
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 _BOSS_DIR = os.path.dirname(os.path.abspath(__file__))
 INPUT_FILE = os.path.join(_BOSS_DIR, "csv_file", "jobs_meta_updated.csv")
 OUTPUT_FILE = os.path.join(_BOSS_DIR, "csv_file", "jobs_gemini_edited.csv")

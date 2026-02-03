@@ -8,9 +8,13 @@ import google.generativeai as genai
 from typing import List, Dict, Any, Optional, Tuple
 from util.type import classify_job_type
 import re
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv(os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), '.env'))
 
 # Configuration
-GEMINI_API_KEY = "AIzaSyC-iCb05HZXEdtniblgTKsUPTJPQFVIzxI"
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 # Get boss folder (same directory as this file)
 _BOSS_DIR = os.path.dirname(os.path.abspath(__file__))
 INPUT_FILE = os.path.join(_BOSS_DIR, "csv_file", "jobs_meta_updated.csv")
